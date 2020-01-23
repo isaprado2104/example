@@ -10,3 +10,4 @@ List of elements we need:
 5. A blancket
 6. A gun
 7. Food
+8. A flashligth
