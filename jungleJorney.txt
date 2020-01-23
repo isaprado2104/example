@@ -9,3 +9,4 @@ List of elements we need:
 4. A pillow
 5. A blancket
 6. A gun
+7. Food
