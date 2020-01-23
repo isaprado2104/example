@@ -5,10 +5,4 @@ We are going to describe the elements to pack for a jorney to the jungle.
 List of elements we need:
 1. A tent
 2. A knife
-3. Food
-4. A pillow
-5. A blanket
-6. A gun
-7. A flashligth
-8. Repellent
-9. Sunblock
+
